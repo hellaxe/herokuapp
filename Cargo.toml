@@ -1,0 +1,10 @@
+[package]
+name = "herokuapp"
+version = "0.1.0"
+authors = ["Vadim Konik <helaxe@gmail.com>"]
+
+[dependencies]
+iron = "*"
+
+[dependencies.router]
+git="https://github.com/iron/router.git"
