@@ -1,0 +1,1 @@
+web: ./target/releases/herokuapp
